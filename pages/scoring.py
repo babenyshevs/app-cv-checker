@@ -61,7 +61,10 @@ class ResumeParserApp:
         skills = "Parsed Skills based on job description and resume"
         return profile, experience, education, skills
 
-    def scores_tab(self):
+    def run(self):
+        st.set_page_config(layout="wide")  # Set page layout to wide
+        st.title("Scoring")
+
         # Create a container with three columns
         col1, col2, col3 = st.columns(3)
 
@@ -74,20 +77,9 @@ class ResumeParserApp:
         # Right column - Parsed resume
         self.render_parsed_resume_column(col3)
 
-    def keywords_tab(self):
-        st.text("Keywords tab content goes here...")
-
-    def run(self):
-        st.set_page_config(layout="wide")  # Set page layout to wide
-        st.title("Resume Parser App")
-
-        # Create tabs using radio buttons
-        selected_tab = st.sidebar.radio("Select Tab", ["Scores", "Keywords"])
-
-        if selected_tab == "Scores":
-            self.scores_tab()
-        elif selected_tab == "Keywords":
-            self.keywords_tab()
+        # Calculate button in the sidebar
+        if st.sidebar.button("Calculate"):
+            self.calculate()
 
 
 if __name__ == "__main__":
