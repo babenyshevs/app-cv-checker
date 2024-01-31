@@ -2,9 +2,7 @@ import os
 from collections import Counter
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
 
-from wordcloud import WordCloud
 import nltk
 from nltk import ngrams
 from nltk.corpus import stopwords
