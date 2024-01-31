@@ -1,0 +1,67 @@
+We live in a mobile world that enables us to stay connected with our loved ones despite being physically apart. At Apple, we develop revolutionary technologies for products that will define how we will be communicating in the future. For this, we are looking for top talent that wants to do the best work of their lives in an environment of excellence, creativity, innovation and partnership. The Zurich Vision Lab is at the intersection of Computer Vision and Computer Graphics, combining modern Machine Learning approaches with geometric knowledge. Because we integrate tightly with the hardware platform and even influence its design, we are able to build products that are extremely fast, power efficient, and accurate.
+We are pursuing ground-breaking fundamental research to ship features that enrich the lives of our customers - such as Persona in  Vision Pro, Portrait mode, FaceTime Eye Contact, ARKit, Memoji. We are looking for an exceptional Machine Learning engineer with a strong focus on quality evaluation and metrics design. You will be working in a diverse, fast moving team in Zurich, Switzerland, and interact with teams around the globe.
+Key Qualifications
+In-depth understanding of Machine Learning principles
+In-depth understanding of Image Processing, 3D Geometry and Computer Vision
+Experience in Python, deep learning and data analysis frameworks (PyTorch, pandas, and similar)
+Experience in working on large scale projects with good software development principles
+Scientific mindset and data-driven approach to problem solving
+Excellent collaboration and teamwork skills
+Willingness to pick up novel tasks and acquire new skills
+Strong written and verbal communication in English
+Description
+You will be working on next generation video and image analysis/synthesis projects in our Machine Learning and Computer Vision research and development team in Zurich, Switzerland, combining modern Machine Learning approaches with geometric knowledge from Computer Vision. As a member of the algorithm development team, your objective is to accelerate our development cycle through the design of innovative tools to monitor and improve the quality of our models. 
+This includes the development of key performance indicators, devising methods to automatically find anomalies and failure cases in algorithm outputs, utilizing data quality contractors, and leveraging large-scale data collection and labeling efforts, all while closely collaborating with our in-house Quality Assurance teams.
+Education & Experience
+PhD or Masters degree in Computer Science, Machine Learning, Computer Vision, Computer Graphics, Data Science or equivalent. If this is you, we'd love to hear from you.
+
+We live in a mobile world that enables us to stay connected with our loved ones despite being physically apart. At Apple, we develop revolutionary technologies for products that will define how we will be communicating in the future. For this, we are looking for top talent that wants to do the best work of their lives in an environment of excellence, creativity, innovation and partnership. If that sounds intriguing to you, then let's talk. The Zurich Vision Lab is at the intersection of computer vision and  computer graphics. 
+We combine modern machine learning approaches with geometric knowledge. Because we integrate tightly with the hardware platform and even influence its design, we are able to build products that are extremely fast, power efficient, and accurate. We are pursuing ground-breaking fundamental research to ship features that enrich the lives of our customers - such as Persona in  Vision Pro, Portrait mode, FaceTime Eye Contact, ARKit, Memoji. We are looking for an exceptional Machine Learning engineer with great coding skills to work on neural rendering. You will be working in a diverse, fast moving team in Zurich, Switzerland, and interact with teams around the globe.
+Key Qualifications
+In depth understanding of 2D and 3D Computer Vision
+Experience in neural rendering
+Excellent software design, development and debugging skills
+Experience in Python and deep learning frameworks (PyTorch or similar)
+Excellent collaboration and teamwork skills
+Willingness to pick up novel tasks and acquire novel skills
+Strong written and verbal communication in English
+Description
+The candidate will be working on image analysis and generation to develop and improve neural rendering methods. This position will be part of our Machine Learning and Computer Vision research and development team in Zurich, combining modern machine learning approaches with geometric knowledge. Our work finds its way into the whole range of future Apple products. 
+We are improving existing technology as well as developing completely new approaches to enhance the way we interact with devices. Because we integrate tightly with the hardware platform and even influence its design we are able to create products that are extremely fast, power efficient, and accurate.
+Education & Experience
+PhD or Masters in computer science, computer vision, computer graphics, machine learning, or equivalent. If this is you, we'd love to hear from you.
+
+Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Multifaceted, amazing people and inspiring, innovative technologies are the norm here. The people who work here have reinvented entire industries with all Apple Hardware products. The same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it. Join us to help deliver the next groundbreaking Apple product! Do you love working on challenges that no one has solved yet? 
+At Apple, we are pushing the boundary of what is possible to improve the lives of our customers. The Zurich Vision Lab is focused on improving communication by advancing the state of the art in computer vision and machine learning. We are shipping features such as Persona for Apple Vision Pro, Portrait Mode, ARKit, Animoji and FaceTime Eye Contact. These breakthroughs are enabled by state of the art research combined with world class design. We are looking for a computer vision and machine learning research intern to work on neural rendering and generative models for the next generation of Apple products.
+Key Qualifications
+Good experience in Python and deep learning frameworks (PyTorch or similar)
+Solid foundation in 3D geometry and deep learning
+Excellent problem solving and analytical thinking skills
+Excellent communication and collaboration skills
+Good software design, problem solving and debugging skills
+Experience in neural rendering, generative models and 3D graphics is a plus
+Strong written and verbal communication in English
+Description
+This position requires a highly motivated person who wants to join us in doing research in the field of neural rendering and generative models. You will be responsible for developing, implementing, evaluating and improving computer vision and machine learning algorithms based on the latest advancements in the field.
+Education & Experience
+During the internship you must be enrolled in a PhD or Masters program in Computer Science, Computer Vision, Computer Graphics, Machine Learning or equivalent. We prefer candidates who are close to finishing the program.
+Additional Requirements
+* Availability for 6 months minimum is preferred.
+* Publication record at top conferences such as CVPR/ECCV/ICCV/SIGGRAPH/NeurIPS is a plus.
+* Experience in the industry is a plus
+
+Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Multifaceted, amazing people and inspiring, innovative technologies are the norm here. The people who work here have reinvented entire industries with all Apple Hardware products. The same passion for innovation that goes into our products also applies to our practices strengthening our commitment to leave the world better than we found it. Join us to help deliver the next groundbreaking Apple product! Do you love working on challenges that no one has solved yet? As a member of our dynamic group, you will have the unique and rewarding opportunity to craft upcoming research directions in the field of multi modal foundation models that will inspire the future Apple products. We are continuously advancing the state of the art in Computer Vision and Machine Learning. You will be working alongside highly accomplished and deeply technical scientists to develop state of the art solution for challenging problems. 
+At Apple, we have a balanced mix of research and focus on delivering only the best products. We are looking for a research intern to work on exciting research field of Generative AI and multi-modal foundation models. Our team is focused on building experiences that combines state of the art computer vision and machine learning with Apple hardware and sensors. Because we integrate tightly with the hardware platform and even influence its design, we are able to build products that are extremely fast, power efficient, and accurate. We are doing fundamental academic research while building shipping features, such as FaceID, RoomPlan and Input on VisionPro. You will be a part of a diverse, fast moving team based in Zurich, Switzerland, and will interact regularly with teams based in Cupertino, USA.
+Key Qualifications
+Strong academic and publication record in computer vision
+Solid programming skills with Python
+Deep understanding large foundation models
+Deep understanding of multi-task, multi-modal machine learning domain
+Familiarity with deep learning toolkits
+Familiar with challenges associated with training large models and working with large data
+Ability to communicate the results of analyses in a clear and effective manner
+Strong written and verbal communication in English
+Description
+This position requires a highly motivated person who wants to help us do fundamental academic research in the field of generativeAI and multi-modal foundation models. You will be responsible for implementing, evaluating and improving Computer Vision and Machine Learning algorithms based on the latest advancements in the fields.
+Education & Experience
+Currently enrolled in your penultimate year of studies in a Computer Science, Computer Vision, Computer Graphics, Machine Learning or equivalent (Master's or PhD).

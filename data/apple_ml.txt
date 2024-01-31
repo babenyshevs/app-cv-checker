@@ -1,0 +1,36 @@
+Do you have a passion for computer vision and deep learning problems? We are looking for someone who thrives on collaboration and wants to push the boundaries of what is possible today! The Video Computer Vision org is a centralized applied research and engineering organization responsible for developing real-time on-device Computer Vision and Machine Perception technologies across Apple products. Our data scientist will work closely with other members of the Video Computer Vision org to implement model evaluation pipeline, analyze large scale data to help influence product decision and improve product quality. This position will require strong analytical and coding skills, presentation skills, and collaborating with multiple teams. You will get to work on computer vision products like FaceID and exciting future technologies.
+Key Qualifications
+2+ industry experience in data science domain
+Extensive knowledge of statistical data analysis and machine learning techniques.
+Solid programming skills with Python for data processing and development.
+Experience developing data science pipelines, tool-chains, and workflows.
+Have a big enough toolbox to know how to find patterns in large and messy data, identify targets for performance, and identify sources of variance about those targets.
+Experienced with data visualization (e.g. matplotlib/ggplot/tableau).
+Have excellent verbal and written communication skills and experience in influencing decisions with information.
+You are self-motivated and curious with demonstrated creative and critical thinking capabilities and an innate drive to improve how things work.
+You have a high tolerance for ambiguity in a fast paced environment. You find a way through. You anticipate. You connect and synthesize!
+Description
+We work on complex problems in computer vision that require robust, efficient, well tested, and clean solutions. The ideal candidate will possess the self-motivation, curiosity, and initiative to achieve those goals. You will work together with similar minds in a unique team where your skills and expertise can be used to influence future user experiences and products that will be used by millions.
+Education & Experience
+PhD or MS in Data Science, Statistics, Bioinformatics, Operations Research, Computer Science, or similar quantitative domain.
+
+
+We work on the cutting edge of Artificial Intelligence and Machine learning to build intelligent system experiences for the world’s most impactful platforms such as iOS, macOS, tvOS, etc. This system-wide intelligence aims to provide best-in-class solutions for problems that are critical to the success of 1st and 3rd party applications in Apple platforms. Some examples of such areas include sharing suggestions, vector indexing and search, discovering and indexing people identities, social relationships, visual recognition of people and things, OCR, natural language generation, visual generation, etc.
+We are looking for highly skilled and creative ML practitioners who are well versed with using large language models (LLMs) for a variety of downstream tasks beyond language generation. Of particular interest is using LLMs to reason in a multi-modal setting, by combining imperfect visual perception with contextual information derived from the system.
+We are the Human and Object Understanding (HOUr) team within the System Intelligence and Machine Learning (SIML) group. We are an applied R&D team that develops fundamental ML technologies and systems for visual perception and reasoning of humans-in-context. Some examples of visual perception technologies the team own include real-time always-on object detection (Center Stage, Cinematic Mode), end-end system-wide person recognition (Photos, HomeKit, Memojis, Apple Pay), spoof detection (IDs in Wallet), and gaze understanding (Center Stage, intelligent cropping). Some examples of high-level reasoning systems include: sharing suggestions, inferring name-person relationships, and efficient vector indexing.
+Key Qualifications
+Familiarity with Python, PyTorch, TensorFlow
+Hold yourself and others to a high bar when delivering a model
+Have great communication skills, for collaborating across many participating teams
+Hands-on experience with LLM-based workflows: prompt engineering and parameter-efficient fine-tuning of pre-trained LLM
+Experience with multi-modal setting, specifically Vision and Language
+Ability to rapidly iterate with fine-tuning toolboxes.
+Ability to translate high-level product goals into data, model and metrics requirements.
+Awareness and attention to model complexity, power and performance.
+Description
+As a ML engineer in the SIML HOUr team, you will work with large-language models and multi-modal generative models, following closely groundbreaking advancements in this domain, to adjust and apply them to internal use cases. One main mission of the role is building adapters on top of large models to enable specific use cases, having a direct impact on features across the Apple ecosystem.
+The work will involve translating high-level product goals into different levels of the stack. From defining the data needs, manipulating data, fine-tuning pre-trained models for the task, evaluating it across relevant metrics and power and performance, prototyping and delivering it for integration.
+The work will be multi-functional, collaborating with ML researchers, software engineers, product design, and other teams. Be expected to iterate quickly to deliver a high quality model, that is performant, reliable, tested extensively, and documented. Apart from model development, the role will also give the experience of scoping projects, estimating timelines, multi-functional planning and presenting your work to organization leadership.
+If this could be of interest, please apply!
+Education & Experience
+Master's or Ph.D. in Computer Science, Artificial Intelligence, Machine Learning, or a related field

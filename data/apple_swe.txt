@@ -1,0 +1,52 @@
+Do you want to make Siri and Apple products smarter for our users? The Machine Learning Platform Technologies & Infrastructure team is building groundbreaking technology for algorithmic search, machine learning, natural language processing, and artificial intelligence. The features we build are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for.
+Siri’s universal search engine powers search features across a variety of Apple products, including Siri, Spotlight, Safari, Messages and Lookup! As part of this group, you will work with one of the most exciting high performance computing environments, with petabytes of data, millions of queries per second, and have an opportunity to imagine and build products that delight our customers every single day!
+Our team works on building high performance components that serve search indexes and execute queriers against it, on improving the quality of these indexes by selecting the best content and building the signals attached to them, exploiting the structure of the web graph and running models on pages, and building tools that help ranking engineers with experimentation and build confidence in our production behavior.
+Key Qualifications
+Strong coding skills with at least one of the following programming languages: Go, Java, Python, Scala, C/C++, Rust
+Strong background in computer science: algorithms and data structures
+Understanding of distributed backend infrastructure, data pipelines
+Excellent interpersonal skills is required; able to work independently as well as in a team
+Experience with distributed computing platform and technologies such as AWS, GCP, Kubernetes, MapReduce or similar is a plus
+Knowledge of search, information retrieval, or machine learning is a plus
+Description
+We design and build infrastructures to support features that empowers billions of Siri users. Our team processes trillions of links to find the best content to surface to users through our custom online search stack, answering information needs for hundreds of millions of users across various Apple products. We collaborate with teams that work on various aspects of search, from indexing all the way to ranking. 
+In this position you'll work on developing internal tools that improve our data pipelines, increase experiment velocity and the engineering productivity. You'll work with many teams across our organization to plan the development of these tools and stay ahead of the needs of our internal users, helping to build these great search experiences for many Apple products.
+Education & Experience
+Bachelor or Master in Computer Science or equivalent
+
+Are you excited about Generative AI? Are you excited about how latest advances in this field could transform the way people communicate, create, connect and consume media? Now imagine working to make this vision a reality on beloved mobile platforms used by billions. This is an opportunity to join a dedicated core group in the Intelligent System Experience organization at Apple, a group that will shape the way generative AI technologies transform Apple’s mobile computing platforms.
+We are looking for world class technology leaders that have the ability to translate ideas to action, and the hands-on expertise to train and deploy large-scale ML-based features/workflows. In this role your focus will be on visual generative modeling to power applications across computation photography, image and video editing, 3D shape and motion reconstruction, avatar generation, and much more. You will work in a highly cross-functional setting, provide critical technical expertise and leadership, and be responsible for delivering ML solutions that serve the intended experiences while respectiing practical constraints such as memory, latency and power. 
+We are the Intelligence System Experience (ISE) team within Apple’s software organization. The team works at the intersection between multimodal machine learning and system experiences. System Experience (Springboard, Settings), Keyboards, Pencil & Paper, Shortcuts are some of the experiences that the team oversees. These experiences that our users enjoy are backed by production scale ML workflows. Visual Understanding of People, Text, Handwriting & Scenes, multilingual NLP for writing workflows & knowledge extraction, behavioral modeling for proactive suggestions, and privacy preserving learning are areas our multi disciplinary ML teams focus on. 
+SELECTED REFERENCES TO OUR TEAM’S WORK: - https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon https://machinelearning.apple.com/research/on-device-scene-analysis https://machinelearning.apple.com/research/panoptic-segmentation  https://machinelearning.apple.com/research/recognizing-people-photos
+Key Qualifications
+Strong ML fundamentals
+Hands-on experience with building Deep Learning applications
+Proficiency in using ML toolkits, e.g., PyTorch
+Strong analytical and problem solving skills
+Strong programming skills in Python, C and C++
+You're aware of the challenges associated to the transition of a prototype into a final product
+You're familiar with the challenges of developing algorithms that run efficiently on resource constrained platforms
+You've demonstrated leadership in both applied research and development
+Excellent written and verbal communications skills, be comfortable presenting research to large audiences, and have the ability to work hands-on in multi-functional teams
+Description
+We are looking for a candidate with a proven track record in applied ML research. Responsibilities in the role will include training large scale generative models in the visual domain on distributed backends, deployment of compact neural architectures such as transformers efficiently on device, and learning adaptive policies that can be personalized to the user in a privacy preserving manner. Ensuring quality in the field, with an emphasis on fairness and model robustness would constitute an important part of the role. You will be interacting very closely with a variety of ML researchers, software engineers, hardware & design teams cross functionally. The primary responsibilities associated with this position range from algorithm design and implementation, ability to integrate research into production frameworks, and collaborating closely with product teams before and after feature launch.
+Education & Experience
+M.S. or PhD in Electrical Engineering/Computer Science, or a related field (mathematics, physics or computer engineering), with a focus on computer vision and/or machine learning or comparable professional experience; or equivalent experience.
+
+Can Computer Vision and Machine Learning transform the way people interact with devices? Can it revolutionize how we think about fundamental applications such as communication, photography, health and fitness, home security, digital payments, voice assistants, and many more? 
+We truly believe it can! And we are looking for a motivated and hard-working software engineer who can help deeply integrate AI models into iOS, macOS and other Apple systems. You will work closely with machine learning researchers, software engineers, and product teams to design and implement core functionality that provides ML capabilities centrally in the OS. This is an opportunity to help build the software stack for the next generation of experiences on Apple devices. 
+We are the Human and Object Understanding (HOUr) team within the System Intelligence and Machine Learning (SIML) group. We are an applied R&D team that develops core technologies for visual perception and reasoning of humans that power various applications across the Apple eco-system. Real-time always-on object detection (Center Stage, Cinematic Mode), facial attributes (Photographic Styles), end-end system-wide person recognition (Photos, HomeKit, Memojis, Apple Pay), spoof detection (IDs in Wallet), text ROI detection (Live Text), fine-grained breed classification (Visual Lookup), and image in-painting (Photos Edit) are just some of the core technologies the team has developed that have contributed to some of Apple’s most beloved features recently!
+Key Qualifications
+Write high quality production code
+Strong coding skills in C++ and ability to ramp up quickly in Objective-C and Swift
+Hold yourself and others to a high bar when working with production systems
+Have extraordinary communication skills, for collaborating across many participating teams
+Passion for scalability, reliability, power, and performance in software: both theory and practice
+Enjoy and have experience: building APIs, defining abstractions that model use cases
+Familiarity with ML concepts and multi-modal ML
+Experience with ML-related Apple frameworks is a plus: e.g., CoreML, Vision Framework, ARKit, etc.
+Description
+As a software engineer in the SIML HOUr team, you will develop new software components to deeply integrate ML-based capabilities centrally in iOS, macOS, and other Apple platforms and accelerate system-wide adoption of these technologies. You will also craft new experiences based on generative modeling and work on integration of multi-modal ML eg Vision and Language.
+Working on various levels of the stack, such as defining software architecture, contributing to frameworks and daemons, and creating prototype apps. Your work will be cross-functional, interfacing with ML researchers, software engineers, product design, and other teams. You will be expected to deliver high quality code, that is performant, reliable, testable, and documented. Apart from code development, the role will also give you the experience of scoping projects, estimating timelines, cross-functional planning and presenting your work to organization leadership.
+Education & Experience
+Bachelors degree in Computer Science or a related engineering fields

@@ -1,0 +1,30 @@
+Do you believe generative models can transform creative workflows and smart assistants used by billions? Do you believe it can fundamentally shift how people interact with devices and communicate? 
+We truly believe it can! We are looking for senior technical leaders experienced in architecting and deploying production scale multimodal ML. An ideal candidate has the ability to lead diverse cross functional efforts ranging from ML modeling, prototyping, validation and private learning. Solid ML fundamentals and an ability to place research contributions would be an essential part of the role. Experience with training and adapting large language models would be an important need. 
+We are the Intelligence System Experience (ISE) team within Apple’s software organization. The team works at the intersection between multimodal machine learning and system experiences. System Experience (Springboard, Settings), Keyboards, Pencil & Paper, Shortcuts are some of the experiences that the team oversees. These experiences that our users enjoy are backed by production scale ML workflows. Visual Understanding of People, Text, Handwriting & Scenes, multilingual NLP for writing workflows & knowledge extraction, behavioral modeling for proactive suggestions, and privacy preserving learning are areas our multi disciplinary ML teams focus on. 
+SELECTED REFERENCES TO OUR TEAM’S WORK:
+https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon https://machinelearning.apple.com/research/on-device-scene-analysis https://machinelearning.apple.com/research/panoptic-segmentation
+Key Qualifications
+Hands on experience training LLMs
+Experience adapting pre-trained LLMs for downstream tasks & human alignment
+Modeling experience at the intersection of NLP and vision
+Familiarity with distributed training
+Proficiency in ML toolkit of choice, e.g., PyTorch
+Strong programming skills in Python, C and C++
+Description
+We are looking for a candidate with a proven track record in applied ML research. Responsibilities in the role will include training large scale multimodal (2D/3D vision-language) models on distributed backends, deployment of compact neural architectures efficiently on device, and learning policies that can be personalized to the user in a privacy preserving manner. Ensuring quality in the wild, with an emphasis on fairness and model robustness would constitute an important part of the role. You will be interacting very closely with a variety of ML researchers, software engineers, hardware & design teams cross functionally. The primary responsibilities of the role would center on enriching multimodal capabilities of large language models. The user experience initiative would focus on aligning image/video content to the space of LMs for visual actions & multi-turn interactions.
+Education & Experience
+M.S. or PhD in Computer Science, or a related fields such as Electrical Engineering, Robotics, Statistics, Applied Mathematics or equivalent experience.
+
+The Machine Intelligence, Neural Design (MIND) group at Apple is spearheading innovative hardware/software co-design for optimizing Machine Learning (ML) on devices, with a particular emphasis on Large Language Models (LLMs).
+Our team is growing, and we're actively seeking a highly motivated and detail-obsessed Machine Learning Research Engineer. This role requires a strong background in ML and systems, practical software development skills, and a keen understanding of computer vision and multimodal foundation models, although the primary focus remains on LLMs. The ideal candidate will be tasked with pushing the boundaries of ML optimization techniques for more efficient on-device inference, blending innovative research with practical engineering to make a significant impact on Apple's products and the ML research field at large.
+Key Qualifications
+Notable achievements, validated by quality publications in ML optimization - with a focus on LLMs
+Proficiency in Python, PyTorch, and Jax
+Experience in large-scale model training and tuning, particularly LLMs, with additional experience in computer vision models
+Outstanding communication and technical writing skills, capable of conveying complex concepts clearly and efficiently
+Description
+-  Research and advance ML optimization methods, focusing on incorporating insights from computer vision and multimodal models into the efficient on-device application of LLMs
+-  Translate theoretical ideas into tangible innovations, demonstrating their industrial applicability
+-  Work closely with hardware and software teams to integrate research findings into market-ready solutions
+Education & Experience
+PhD in Computer Science, Computer Engineering, or a closely-related field
