@@ -10,6 +10,8 @@ from nltk.stem import WordNetLemmatizer
 
 nltk.download('stopwords')
 nltk.download('wordnet')
+nltk.download('punkt')
+
 file_path = 'data/gen_councelor.txt'
 folder_path = "data/"
 
